@@ -5,11 +5,11 @@ your_username:
   location: "Beijing, China"
   links:
     - label: "Email"
-      icon: "luomr22@mails.tsinghua.edu.cn"
+      icon: "fas fa-fw fa-envelope-square"
       url: "luomr22@mails.tsinghua.edu.cn"
     # - label: "Google Scholar"
     #   icon: "fas fa-fw fa-graduation-cap"
     #   url: "YOUR_GOOGLE_SCHOLAR_URL"
     - label: "GitHub"
-      icon: "https://github.com/XiaoxiangRdM"
+      icon: "fas fa-fw fa-envelope-square"
       url: "https://github.com/XiaoxiangRdM"
