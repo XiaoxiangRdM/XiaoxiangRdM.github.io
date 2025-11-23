@@ -15,7 +15,7 @@ plugins:
   - jekyll-include-cache
 
 # Minimal Mistakes color
-minimal_mistakes_skin: "default" # default, dark, mint, neon, ...
+minimal_mistakes_skin: "mint" # default, dark, mint, neon, ...
 
 # Navigation
 defaults:
