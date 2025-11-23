@@ -15,7 +15,7 @@ plugins:
   - jekyll-include-cache
 
 # Minimal Mistakes color
-minimal_mistakes_skin: "dark" # default, dark, mint, neon, ...
+# minimal_mistakes_skin: "dark" # default, dark, mint, neon, ...
 
 # Navigation
 defaults:
@@ -34,11 +34,11 @@ navbar:
   - title: "Home"
     url: "/"
   - title: "Research interests"
-    url: "/research-interests/"
+    url: "#research-interests"
   - title: "Preprints&Submissions"
-    url: "/preprintssubmissions/"
+    url: "#preprintssubmissions"
   - title: "Teaching"
-    url: "/teaching/"
+    url: "#teaching"
   # - title: "Publications"
   #   url: "/publications/" #  publications.html or publications.md 
   # - title: "CV"
