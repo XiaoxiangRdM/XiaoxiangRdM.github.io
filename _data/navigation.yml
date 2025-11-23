@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Research interests"
+    url: "#research-interests"
+  - title: "Preprints&Submissions"
+    url: "#preprints-submissions"
+  - title: "Teaching"
+    url: "#teaching"
+  # - title: "Publications"
+  #   url: "/publications/" #  publications.html or publications.md 
+  # - title: "CV"
+  #   url: "/cv/"
