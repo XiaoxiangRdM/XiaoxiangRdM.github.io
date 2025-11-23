@@ -17,7 +17,7 @@ I am particularly interested in bridging rigorous theoretical understanding with
 
 * Causal Inference & Robust ML
 
-## <h2 id="preprints-submissions">Preprints&Submissions</h2>
+<h2 id="preprints-submissions">Preprints&Submissions</h2>
 
 
 
