@@ -1,0 +1,38 @@
+remote_theme: "mmistakes/minimal-mistakes@4.24.0" 
+
+
+title: "Minrui Luo's Personal Website"
+name: "Minrui Luo(罗民睿)"
+masthead_title: "Minrui Luo" # 导航栏上的显示名称
+subtitle: ""
+
+# 3. GitHub Pages config
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Minimal Mistakes color
+minimal_mistakes_skin: "default" # default, dark, mint, neon, ...
+
+# Navigation
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single" 
+      author_profile: true 
+      
+# (Header Navigation)
+include:
+  - _pages
+navbar:
+  - title: "Home"
+    url: "/"
+  # - title: "Publications"
+  #   url: "/publications/" #  publications.html or publications.md 
+  # - title: "CV"
+  #   url: "/cv/"

@@ -1,0 +1,15 @@
+your_username: 
+  name: "Minrui Luo"
+  avatar: "/assets/images/profile.png"
+  # bio: "I am a senior student from Institute for Interdisciplinary Information Sciences (IIIS, also known as Yao Class), Tsinghua University. "
+  location: "Beijing, China"
+  links:
+    - label: "Email"
+      icon: "luomr22@mails.tsinghua.edu.cn"
+      url: "luomr22@mails.tsinghua.edu.cn"
+    # - label: "Google Scholar"
+    #   icon: "fas fa-fw fa-graduation-cap"
+    #   url: "YOUR_GOOGLE_SCHOLAR_URL"
+    - label: "GitHub"
+      icon: "https://github.com/XiaoxiangRdM"
+      url: "https://github.com/XiaoxiangRdM"
