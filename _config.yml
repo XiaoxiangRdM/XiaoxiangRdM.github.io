@@ -3,7 +3,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 title: "Minrui Luo's Personal Website"
 name: "Minrui Luo(罗民睿)"
-masthead_title: "Minrui Luo" # 导航栏上的显示名称
+masthead_title: "Minrui Luo" 
 subtitle: ""
 
 # 3. GitHub Pages config
