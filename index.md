@@ -5,7 +5,7 @@ author_profile: true
 
 <!-- # Welcome to my homepage! -->
 
-I am Minrui Luo, currently a Ph.D. student in the **Machine Learning program at the Georgia Institute of Technology**, where I am fortunate to be advised by Professor [Molei Tao](https://www.mtao8.math.gatech.edu/). I received my bachelor's degree from the **Institute for Interdisciplinary Information Sciences (IIIS, also known as Yao Class)** at Tsinghua University. 
+I am Minrui Luo, currently a Ph.D. student in the **Machine Learning program at the Georgia Institute of Technology**, where I am fortunate to be advised by Professor [Molei Tao](https://www.mtao8.math.gatech.edu/). I received my bachelor's degree from the **Institute for Interdisciplinary Information Sciences** at Tsinghua University. 
 
 My research focuses on the mathematical foundations of modern machine learning. I am actively exploring diffusion models, non-convex optimization, and reinforcement learning. I am also interested in AI safety and alignment, as well as causal inference.
 
