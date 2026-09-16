@@ -7,7 +7,9 @@ author_profile: true
 
 I am Minrui Luo, currently a Ph.D. student in the **Machine Learning program at the Georgia Institute of Technology**, where I am fortunate to be advised by Professor [Molei Tao](https://www.mtao8.math.gatech.edu/). I received my bachelor's degree from the **Institute for Interdisciplinary Information Sciences** at Tsinghua University. 
 
-My research focuses on the mathematical foundations of modern machine learning. I am actively exploring diffusion models, non-convex optimization, and reinforcement learning. I am also interested in AI safety and alignment, as well as causal inference.
+My research focuses on the mathematical foundations of modern machine learning. I am actively exploring diffusion models, non-convex optimization, and reinforcement learning. 
+
+Pre-history I worked on AI safety and alignment, as well as causal inference.
 
 <h2 id="preprints-submissions">Publications & Preprints</h2>
 
@@ -41,7 +43,7 @@ My research focuses on the mathematical foundations of modern machine learning. 
   
 * **Minrui Luo**\*, Fuhang Kuang\*, Yu Wang, Zirui Liu, and Tianxing He.  
   *SC-LoRA: Balancing Efficient Fine-tuning and Knowledge Preservation via Subspace-Constrained LoRA.*  
-  Accepted to IJCNN 2026.  
+  IJCNN 2026 Poster.  
   [[arXiv]](https://arxiv.org/abs/2505.23724)
 
 * Haoming Wen, Shi Chen, Qingyu Shi, Siyuan Liu, **Minrui Luo**, Jingzhao Zhang, and Tianxing He.  
