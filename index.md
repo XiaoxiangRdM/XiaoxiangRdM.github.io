@@ -23,8 +23,8 @@ Pre-history I worked on AI safety and alignment, as well as causal inference.
 <h3>Deep Learning Theory and Non-convex Optimization</h3>
 
 * **Minrui Luo**, Weihang Xu, Xiang Gao, Maryam Fazel, and Simon Shaolei Du.  
-  *Global Convergence of Four-Layer Matrix Factorization under Random Initialization.*
-  Neurips 2026 Poster. 
+  *Global Convergence of Four-Layer Matrix Factorization under Random Initialization.*  
+  Neurips 2026 Poster.  
   [[arXiv]](https://arxiv.org/abs/2511.09925)
 
 <h3>Causal Inference + Machine Learning</h3>
