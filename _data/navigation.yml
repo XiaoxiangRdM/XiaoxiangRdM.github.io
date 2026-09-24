@@ -8,8 +8,8 @@ main:
   - title: "Publications & Preprints"
     url: "#preprints-submissions"
 
-  - title: "Previous Research"
-    url: "#previous-research"
+  # - title: "Previous Research"
+  #   url: "#previous-research"
 
   - title: "Teaching"
     url: "#teaching"
