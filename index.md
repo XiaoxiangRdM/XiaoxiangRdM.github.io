@@ -57,4 +57,8 @@ Pre-history I worked on AI safety and alignment, as well as causal inference.
 
 Lecture Assistant for **Probability Theory** at Georgia Institute of Technology, Sep. 2026 - present. 
 
-Teaching Assistant for **Natural Language Processing** at Tsinghua University, Sep. 2025 - Jan. 2026.
+Teaching Assistant for **Natural Language Processing** at Tsinghua University, Sep. 2025 - Jan. 2026. 
+
+<h2 id="thankful">A subset of what I'm thankful for</h2>
+
+- Sep 24 2026: 1 x NeurIPS'26 main track. Grateful to my advisors and collaborators for guiding me into deep learning theory and for their invaluable support throughout this project. I still believe that proving polynomial-time global convergence for general deep matrix factorization remains a very challenging problem, with a long way to go. I will keep thinking about it.
