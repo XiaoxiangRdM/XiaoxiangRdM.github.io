@@ -25,7 +25,7 @@ Previously, I worked on AI safety and alignment, as well as causal inference.
 * **Minrui Luo**, Weihang Xu, Xiang Gao, Maryam Fazel, and Simon Shaolei Du.  
   *Global Convergence of Four-Layer Matrix Factorization under Random Initialization.*  
   NeurIPS 2026 Poster.  
-  [[arXiv]](https://arxiv.org/abs/2511.09925) [[OpenReview]]() [[Poster]]() 
+  [[arXiv]](https://arxiv.org/abs/2511.09925) [[OpenReview]]() [[Poster]](https://neurips.cc/virtual/2026/loc/atlanta/poster/151546) 
 
 <h3>Causal Inference + Machine Learning</h3>
 
