@@ -15,8 +15,8 @@ Previously, I worked on AI safety and alignment, as well as causal inference.
 
 <h3>Diffusion Models</h3>
 
-* Zeyang Zhang\*, Linxiang Gao\*, Meiqi Gu\*, Xingyan Chen, **Minrui Luo**, Kaifeng Lyu, and Tianxing He.
-  *Self-Conditioning Enables Deep Sequential Reasoning in Flow Matching. *
+* Zeyang Zhang\*, Linxiang Gao\*, Meiqi Gu\*, Xingyan Chen, **Minrui Luo**, Kaifeng Lyu, and Tianxing He.  
+  *Self-Conditioning Enables Deep Sequential Reasoning in Flow Matching.*  
   Preprint, 2026.
   [[arXiv]](https://arxiv.org/abs/2610.19628) [[GitHub]](https://github.com/imzzy1201/self-conditioning-deep-reasoning) 
 
